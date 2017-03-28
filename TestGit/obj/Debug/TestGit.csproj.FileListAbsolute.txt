@@ -1,1 +1,2 @@
 c:\users\latif guliyev\documents\visual studio 2015\Projects\TestGit\TestGit\bin\Debug\TestGit.exe.config
+C:\Users\RAMIL\Source\Repos\TestGit\TestGit\bin\Debug\TestGit.exe.config
